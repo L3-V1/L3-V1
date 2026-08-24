@@ -1,5 +1,7 @@
 # Olá, eu sou Levi 👋
 
+> *Sim, esse README.md foi feito por I.A 😂️*
+
 **Analista de Sistemas** com interesse em desenvolvimento de software, aplicações web e Inteligência Artificial.
 
 Utilizo o GitHub para desenvolver projetos, experimentar novas tecnologias e aprofundar meus conhecimentos em engenharia de software.
